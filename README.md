@@ -1,5 +1,4 @@
-<pre>
-  <code>
+```javascript
 const profile = {  
   role: "Red Team Specialist & Frontend Developer",  
   skills: [  
@@ -16,5 +15,3 @@ const profile = {
 };  
 
 console.log("Let's connect and build something awesome! 🚀");
-  </code>
-</pre>
