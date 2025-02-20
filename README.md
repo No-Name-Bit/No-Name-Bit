@@ -1,3 +1,5 @@
+<pre>
+  <code>
 const profile = {  
   role: "Red Team Specialist & Frontend Developer",  
   skills: [  
@@ -13,5 +15,6 @@ const profile = {
   currentlyLearning: ["Advanced EDR Evasion", "Cloud Security", "Web 3.0 Security"],  
 };  
 
-console.log("Let's connect and build something awesome! 🚀");  
-
+console.log("Let's connect and build something awesome! 🚀");
+  </code>
+</pre>
