@@ -1,3 +1,12 @@
+<div align="center">
+<h1 align="center">Hello, I'm Ethan Garcia 👋</h1>
+</div>
+
+## Connect with Me 🌎
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/EthanGarcia)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/EthanGarcia)
+
+
 ```javascript
 const profile = {  
   role: "Red Team Specialist & Frontend Developer",  
@@ -15,3 +24,7 @@ const profile = {
 };  
 
 console.log("Let's connect and build something awesome! 🚀");
+
+
+
+
